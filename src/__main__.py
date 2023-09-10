@@ -1,15 +1,15 @@
-from .custom_types import (
+from src.custom_types import (
     proj_name,
     file_content,
     proj_content
 )
-from .project_indexer import (
+from src.project_indexer import (
     gather_project_data,
     create_metadata_md_file,
     generate_semantic_summary,
     update_project_memory
 )
-from .utils import (
+from src.utils import (
     load_config_to_env
 )
 

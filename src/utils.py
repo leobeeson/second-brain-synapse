@@ -3,7 +3,7 @@ import urllib.parse
 import configparser
 
 
-from custom_types import (
+from src.custom_types import (
     proj_name, 
     proj_content,
     file_content
