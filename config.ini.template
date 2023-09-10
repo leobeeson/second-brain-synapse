@@ -1,0 +1,6 @@
+[DEFAULT]
+
+[DATA_PATHS]
+projects_dir = path/to/second_brain/root_folder
+project_memory_path = path/to/second_brain/root/memory_folder/project_memory.json
+
